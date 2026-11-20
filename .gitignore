@@ -1,0 +1,7 @@
+# 明文谱面与明文清单只留在作者本机，禁止进入公开仓库
+beat/
+beat-manifest.json
+
+# 系统/编辑器临时文件
+.DS_Store
+Thumbs.db
